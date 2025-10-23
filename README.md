@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/josefloresgonzalez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josefloresgonzalez/" height="30" width="40" /></a>
 <a href="https://github.com/JoseRules" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="https://www.linkedin.com/in/josefloresgonzalez/" height="30" width="40" /></a>
-<a href="https://joserules.github.io/portfolio/" target="blank"><img align="center" src="https://res.cloudinary.com/de3taspqp/image/upload/v1761247194/vpf1opn4wjd0pquvtsn5.png" alt="https://www.linkedin.com/in/josefloresgonzalez/" height="30" width="40" /></a>
+<a href="https://joserules.github.io/portfolio/" target="blank"><img align="center" src="https://res.cloudinary.com/de3taspqp/image/upload/v1761247194/vpf1opn4wjd0pquvtsn5.png" alt="https://www.linkedin.com/in/josefloresgonzalez/" height="30" width="30" /></a>
 </p>
 
 
