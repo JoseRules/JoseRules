@@ -14,7 +14,7 @@
   <a href="https://github.com/JoseRules"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:josep.plx@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://joserules.github.io/portfolio/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" alt="portfolio" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="portfolio" width="40" height="40"/>
   </a>
 </p>
 
